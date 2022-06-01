@@ -1,6 +1,6 @@
 <h1 align="Center"> Snake Game </h1>
 
-<h5 align="center"> Project Assignment 1 - <a href="https://nitw.ac.in/" target="_blank">NITW</a> (Winter 2021) </h5>
+<h5 align="center"> Project Assignment 1 - Computer Game Development and Animation ,<a href="https://nitw.ac.in/"> NITW</a> (Winter 2021) </h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
