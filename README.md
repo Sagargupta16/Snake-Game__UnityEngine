@@ -23,6 +23,17 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PROJECT FILES DESCRIPTION -->
+<h2 id="project-files-description"> 💻 Language and Tools Used</h2>
+
+<ul>
+  <li><b>C#</b> - For Coding Part and Libraries.</li>
+  <li><b>Visual Studio Code</b> - Text Editor For Running C# Codes.</li>
+  <li><b>Unity Engine</b> - For Handling Scripts with Runnable Environment.</li>
+</ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PROJECT FILES DESCRIPTION -->
 <h2 id="project-files-description"> :floppy_disk: Project Files Description</h2>
 
 <ul>
@@ -36,7 +47,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
- <h2 id="project-files-description"> ⏯️: How to Run Game</h2>
+ <h2 id="project-files-description"> ⏯️ How to Run Game</h2>
  <ul>
   <li><b>STEP-1 </b> - To Download Source Code and Playable Build click [Download](https://drive.google.com/drive/folders/1Aeiwm-NYEDG-VxkZVJBNHitLlna0a2yJ?usp=sharing).</li>
   <li><b>STEP-2 </b> - Extract the **Snake Game playable(.exe).zip** for Playable Content and **Snake Game Source Code.zip** to see Source Code Content.</li>
