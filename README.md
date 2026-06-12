@@ -23,7 +23,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PROJECT FILES DESCRIPTION -->
-<h2 id="project-files-description"> 💻 Language and Tools Used</h2>
+<h2 id="language-and-tools-used"> 💻 Language and Tools Used</h2>
 
 <ul>
   <li><b>C#</b> - For Coding Part and Libraries.</li>
@@ -47,11 +47,11 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
- <h2 id="project-files-description"> ⏯️ How to Run Game</h2>
+ <h2 id="how-to-run-game"> ⏯️ How to Run Game</h2>
  <ul>
-  <li><b>STEP-1 </b> - To Download Source Code and Playable Build click [Download](https://drive.google.com/drive/folders/1Aeiwm-NYEDG-VxkZVJBNHitLlna0a2yJ?usp=sharing).</li>
-  <li><b>STEP-2 </b> - Extract the **Snake Game playable(.exe).zip** for Playable Content and **Snake Game Source Code.zip** to see Source Code Content.</li>
-  <li><b>STEP-3 </b> - Open Extracted Folder Than double Click on **Snake Game Self.exe** to play game.</li>
+  <li><b>STEP-1 </b> - To Download Playable Build click <a href="https://github.com/Sagargupta16/Snake-Game__UnityEngine/releases/latest">Download</a> and get <b>SnakeGame.zip</b>. Source Code is in the <b>Scripts</b> Folder of this Repository.</li>
+  <li><b>STEP-2 </b> - Extract <b>SnakeGame.zip</b> to get the <b>Snake Game playable(.exe)</b> Folder with Playable Content.</li>
+  <li><b>STEP-3 </b> - Open Extracted Folder Than double Click on <b>Snake Game Self.exe</b> to play game.</li>
   <li><b>STEP-4 </b> - Enjoy the Game!.</li>
 </ul>
 
